@@ -7,5 +7,8 @@ It will prepare and download a script for you with the given parameters which yo
 - Log results when benchmarking is completed (`/api/node/status` or calculate)
 - Add the possibility to send a mix of transactions instead of only `transfer` transactions.
 
+## Current UI
+![Current Benchmark UI](images/screenshot-ui.png)
+
 ## Source
-Source template: https://colorlib.com/wp/template/login-form-v11/
+Source UI template: https://colorlib.com/wp/template/login-form-v11/
