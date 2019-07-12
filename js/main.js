@@ -1,3 +1,4 @@
+/* Temporarily validatin not used */
 
 (function ($) {
     "use strict";
