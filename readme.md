@@ -4,7 +4,7 @@ The UI expects you to input the amount of tx you want to send and the `hostname:
 It will prepare and download a script for you with the given parameters which you can simply run with `node`.
 
 ## Usage
-Open the index.html file in your web browser.
+Open the `index.html` file in your web browser.
 
 ## Improvements
 - Instead of using this Gist, move to a tool like [Siege HTTP Load Testing](https://github.com/JoeDog/siege) which gives better insights/reporting.
