@@ -1,5 +1,5 @@
 # Lisk Benchmark UI (WIP)
-Side project to create a UI for a basic benchmarking script created by @pablitovicente
+Side project to create a UI for a basic [benchmarking script](https://gist.github.com/pablitovicente/99f663e5e59980cd1abde1996a5c0c8a) created by @pablitovicente
 The UI expects you to input the amount of tx you want to send and the `hostname:port` of your Lisk app.
 It will prepare and download a script for you with the given parameters which you can simply run with `node`.
 
